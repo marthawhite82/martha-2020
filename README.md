@@ -1,1 +1,3 @@
-# martha-2020
+# maven-project
+
+Simple Maven Project
